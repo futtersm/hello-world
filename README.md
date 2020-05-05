@@ -1,2 +1,2 @@
 # hello-world
-check out Github
+# first branche of my late software-development activities
